@@ -1,8 +1,8 @@
-Here’s a detailed guide on how to write a README file for your GitHub project:
+
 
 ---
 
-# **Project Title: Multi-Lingual Text Detection System**
+#  Multi-Lingual Text Detection System**
 
 ## **Overview**
 This project aims to develop a multi-lingual text detection system that enhances the ability to process and search sentences containing both Hindi and English words.Suppose if a sentence has both English and Hindi words, it is very difficult to covert this sentence in a single lamguage sentence. The system utilizes machine learning models to accurately detect the language of individual words in mixed-language text.
